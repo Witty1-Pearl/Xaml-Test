@@ -1,0 +1,7 @@
+C:\Users\basyp\source\repos\Xaml-Test\obj\Debug\Xaml-Test.csprojAssemblyReference.cache
+C:\Users\basyp\source\repos\Xaml-Test\obj\Debug\LoginScreen.g.cs
+C:\Users\basyp\source\repos\Xaml-Test\obj\Debug\MainWindow.g.cs
+C:\Users\basyp\source\repos\Xaml-Test\obj\Debug\RegistrationScreen.g.cs
+C:\Users\basyp\source\repos\Xaml-Test\obj\Debug\App.g.cs
+C:\Users\basyp\source\repos\Xaml-Test\obj\Debug\Xaml-Test_MarkupCompile.cache
+C:\Users\basyp\source\repos\Xaml-Test\obj\Debug\Xaml-Test_MarkupCompile.lref
